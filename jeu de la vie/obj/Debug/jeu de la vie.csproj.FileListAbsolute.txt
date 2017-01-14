@@ -1,0 +1,10 @@
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.exe
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.pdb
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.exe.config
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.exe.manifest
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.application
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.exe
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\bin\Debug\jeu de la vie.pdb
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.csprojResolveAssemblyReference.cache
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.exe.manifest
+C:\Users\antho\Desktop\jeu de la vie\jeu de la vie\obj\Debug\jeu de la vie.application
